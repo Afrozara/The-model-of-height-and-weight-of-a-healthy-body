@@ -16,7 +16,6 @@ find a linear regression line for the relationship between height and weight and
 
 ![corrCoefficient.](resources/2.png)
 
-
 To create a graph of the model, plot the linear regression line on top of the scatter plot. This will allow you to see how well the line fits the data and visualize the relationship between height and weight, you can create a scatter plot with height on the x-axis and weight on the y-axis. The scatter plot will show you if there is a linear relationship between the two variables.
 
 ![Scatter.](resources/3.png)
